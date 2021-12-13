@@ -1,2 +1,5 @@
-./teste
-./teste2
+1
+./teste 4 3
+./teste2 2 1
+./teste3 3 2
+./teste4 1 3

@@ -5,9 +5,10 @@
 #include "jobs.h"
 
 extern char **fila;
-extern char **argumentos;	
-extern int queueSize;     
+extern char **argumentos;
+extern int queueSize;
 
+int get_escalonador (FILE *arq);
 void loadJobs(char* file);
 void print_jobsQueue();
 
